@@ -1,0 +1,15 @@
+{
+  "name": "datepicker-type-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@react-native-community/datetimepicker": "^2.2.2",
+    "@types/react": "^16.9.22",
+    "@types/react-native": "^0.61.17",
+    "react": "^16.12.0",
+    "react-native": "^0.61.5",
+    "react-native-modal-datetime-picker": "^8.5.0",
+    "typescript": "^3.8.2"
+  }
+}
